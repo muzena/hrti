@@ -1,3 +1,4 @@
 [submodule "repo/plugin.video.hrti"]
 	path = repo/plugin.video.hrti
 	url = https://github.com/nirvana-7777/plugin.video.hrti.git
+	branch = Matrix
