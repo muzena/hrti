@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="hrti.repo" name="HRTi Repository" version="1.2" provider-name="muzena">
+<addons><addon id="hrti.repo" name="HRTi Repository" version="1.3" provider-name="muzena">
     <extension point="xbmc.addon.repository" name="HRTi Repository">
         <dir minversion="19.0.0">
             <info compressed="false">https://raw.githubusercontent.com/muzena/hrti/master/repo/zips/addons.xml</info>
@@ -9,7 +9,9 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>HRTi Addon Repository</summary>
+        <summary lang="hr_HR">Repozitorij HRTi dadatka</summary>
         <description>Repository for Kodi HRTi addon</description>
+        <description lang="hr_HR">Repozitorij za Kodi HRTi dodatak</description>
         <disclaimer />
         <platform>all</platform>
         <assets>
